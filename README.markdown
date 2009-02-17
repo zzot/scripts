@@ -5,12 +5,12 @@ This repository tracks the scripts folder on my machine, as an alternative to
 having to update some post on my blog every time I make a minor edit to one
 of them.
 
-The two branches are:
-
-master
-: The uncompiled scripts (so people can read them).
-compiled
-: The compiled scripts (so I can run them).
+I used to push two branches, one compiled one not, but I dropped the former.
+Keeping compiled scripts in a branch turned out to create more problems for
+me (on my machine) than it solved, and `.scpt` files aren't readable anyway,
+and that's really the whole point of pushing these.  If you want to use one
+of these scripts verbatim, just download it, compile it in Script Editor
+and save the result to an appropriate location. 
 
 License
 -------
